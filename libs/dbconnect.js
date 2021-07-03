@@ -4,8 +4,8 @@ const mongoose = require("mongoose");
 
 
 /// Thông tin Database Collection / Tables
-const userName = "dbadmin";
-const userPassword = "tYjPsNZo8HJYc8qm";
+const userName = "ATNcompany";
+const userPassword = "qaFC865qyztsbT6G";
 
 const dbName = "ATN_SHOP";
 
